@@ -1,6 +1,6 @@
 const LINKS = {
   "/cv": "https://DESTINO-DE-TU-CV.com",
-  "/portfolio": "https://cristian-campos-duran.github.io/portafolio-cristian-campos/",
+  "/portfolio": "https://cristian-campos-duran.github.io/portafolio",
   "/linkedin": "https://www.linkedin.com/in/cristian-campos-duran/"
 };
 
